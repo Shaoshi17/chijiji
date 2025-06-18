@@ -1,3 +1,6 @@
+
+![e1fc421d5b5343baa307f1ba1f933987](https://github.com/user-attachments/assets/d8f0ae85-ab93-41ad-80bf-4a524ce43017)
+
 一个轻量级的鼠标拖拽控制工具，提供可配置的拖拽速度和多种组合键触发方式，通过Home键可快速隐藏/显示控制界面。
 
 功能特性
